@@ -3,7 +3,7 @@ const client = new Discord.Client()
 
 let prefix = "/"
 
-client.login("NjczNTcwMDI1MzQwNDAzNzYy.Xjb9MQ.Np15Nmcjw_Llgla1X_FMDqwTLJU")
+client.login("NjczNTcwMDI1MzQwNDAzNzYy.Xk_8EQ.Z4vTutLxyztkKyOlfbHeJfuF6OY")
 
 client.on("ready", () => {
     console.log("Connecté !")
